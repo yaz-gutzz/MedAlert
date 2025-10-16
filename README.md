@@ -1,13 +1,13 @@
 <p align="center">
-  <h1 align="center">Proyecto PillBox</h1>
+  <h1 align="center">Proyecto MedAlert +</h1>
 </p>
 
 <table>
    <td>Logo de la Aplicacion</td>
    <td>Logo de empresa</td>
   <tr>
-    <td>  <img src="/Documentation/GUI/Assets/LogoPillbox.png" width="80%" style="padding: 10px;" />  </td>
-    <td>   <img src="/Documentation/GUI/Assets/meditech_empresa.png" width="80%" style="padding: 10px;" /> </td> 
+    <td>  <img src="/Documentation/GUI/Assets/MedAlert+Logo.jpg" width="80%" style="padding: 10px;" />  </td>
+    <td>   <img src="/Documentation/GUI/Assets/MedAlert+Logo.jpg" width="80%" style="padding: 10px;" /> </td> 
   </tr>
 </table>
 
